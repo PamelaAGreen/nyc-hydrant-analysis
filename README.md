@@ -53,7 +53,7 @@ Both pipelines produce the same calculations values to within rounding and follo
 
 * The lowest 100 m coverage results are concentrated in Staten Island, with New Springville-Willowbrook-Bulls Head-Travis at about 48.4 to 48.5 percent covered.
 
-![Hydrant density map](images/hydrant-density.png)
+![Hydrant density map](images/hydrant_density.png)
 
 ## How to run it
 
