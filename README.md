@@ -16,10 +16,10 @@ are underserved relative to their area?
 
 Built the same analysis twice:
 
-- **SQL (PostGIS):** five progressive queries in `analysis.sql`, going
+- **SQL (PostGIS):** five progressive queries in `nyc_hydrant_analysis_sql.ipynb`, going
   from simple filter to spatial join to area-normalized density to
   100m-buffer coverage analysis.
-- **Python (GeoPandas):** equivalent pipeline in `analysis.ipynb`,
+- **Python (GeoPandas):** equivalent pipeline in `analnyc_hydrant_analysis_python.ipynb`,
   with a static choropleth and interactive `.explore()` map. Final
   output exported to GeoParquet.
 
